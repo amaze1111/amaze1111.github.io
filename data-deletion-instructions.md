@@ -1,3 +1,7 @@
+layout: page
+title: "data-deletion-instructions"
+permalink: /data-deletion-instructions.md
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
