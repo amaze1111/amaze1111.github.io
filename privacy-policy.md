@@ -1,3 +1,7 @@
+layout: page
+title: "privacy-policy
+permalink: /privacy-policy.md
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
